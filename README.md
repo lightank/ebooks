@@ -10,3 +10,6 @@
 * [阿里巴巴Android开发手册](https://102.alibaba.com/downloadFile.do?file=1520478361732/Android_v9.pdf)
 * [深入探索Android热修复技术原理](https://102.alibaba.com/downloadFile.do?file=1519817861917/Android_hotfix.pdf)
 * [九年双11：互联网技术超级工程](https://102.alibaba.com/downloadFile.do?file=1516614343703/AliDouble11.pdf)
+
+# iOS
+* [一份走心的JS-Native交互电子书](https://github.com/awesome-tips/iOS-Tips/blob/master/resources/一份走心的JS-Native交互电子书.pdf) by [知识小集](https://github.com/awesome-tips/iOS-Tips)
