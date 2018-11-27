@@ -13,3 +13,6 @@
 
 # iOS
 * [一份走心的JS-Native交互电子书](https://github.com/awesome-tips/iOS-Tips/blob/master/resources/一份走心的JS-Native交互电子书.pdf) by [知识小集](https://github.com/awesome-tips/iOS-Tips)
+
+# 算法
+* [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
